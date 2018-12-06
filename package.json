@@ -1,0 +1,11 @@
+{
+  "name": "project1-be",
+  "version": "1.0.0",
+  "description": "This is the back end of a simple todo application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VBHS Web Development",
+  "license": "ISC"
+}
