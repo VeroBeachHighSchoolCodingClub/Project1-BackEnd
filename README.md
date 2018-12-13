@@ -49,11 +49,13 @@
    > the styles to make it cleaner. *There is always a way to make a project better.*
 ---
 ## Terminal Commands
+
   *Staging/Commiting*
   - `git add .` *adds all files to the staging area*
   - `git add [file name]` *add only that specific file to the staging area*
   - `git commit -m '[commit message]'` *pushes code to local repo*
   - `git status` *checks the staging/commiting status of the current branch*
+  
   *Pulling/Pushing Code*
   - `git clone [GitHub link]` *makes a new directory for the repo that the link is connected to*
   - `git add upstream [GitHub link]` *adds a remote repo (not personal repo)*
@@ -61,6 +63,7 @@
   - `git merge upstream/master` *merges the data from the remote upstream repo*
   - `git pull [remote name]` *fetches code from remote repo and merges it to current branch*
   - `git push origin [branch name]` *pushes the code to personal remote repo*
+  
   *Branch Manipulation*
   - `git branch` *lists all local branches*
   - `git branch -d [branch name]` *deletes branch, pass -D to force delete it (instead of -d)*
